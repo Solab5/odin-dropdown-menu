@@ -1,5 +1,5 @@
 {
-  "name": "odin-dropdown-menu",
+  "name": "twin-odin-dropdown-menu",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Twinomugisha Morris",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^7.1.2",

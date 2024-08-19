@@ -1,6 +1,6 @@
 import './styles.css'
 
-class Dropdown {
+export class Dropdown {
     constructor(dropdownElement) {
       this.dropdown = dropdownElement;
       this.toggle = this.dropdown.querySelector('.dropdown-toggle');
